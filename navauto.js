@@ -2,7 +2,6 @@
  * Infinite Ajax Scroll, a jQuery plugin 
  * Version v0.1.4
  * http://webcreate.nl/
- *
  * Copyright (c) 2011 Jeroen Fiege
  * Licensed under the MIT License: 
  * http://webcreate.nl/license
