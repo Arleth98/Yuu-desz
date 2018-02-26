@@ -1,0 +1,40 @@
+<div class="img-thumb">
+    <center>
+    <img alt="Judul Anime" src="https://s13.postimg.org/fw6xjeaf9/konobi.jpg">
+    </center>
+  </div>
+
+<div class="arleth98">
+ <h2>Judul Anime</h2>
+ <div class="inf-wrap">
+  
+  <div class="inf-inc">
+    <div class="lol"><b>Japanese</b>: Nama Lain / Nama Jepang Anime</div>
+    <div class="lol"><b>Producer</b>: Produser Anime</div>
+    <div class="lol"><b>Type</b>: Tipe Anime</div>
+    <div class="lol"><b>Status</b>: Status Anime</div>
+    <div class="lol"><b>Genres</b>:
+     <a href="#">Genre Anime</a>,
+     <a href="#">Genre Anime</a>,
+     <a href="#">Genre Anime</a>
+    </div>
+    <div class="lol"><b>Durasi</b>: Durasi Anime</div>
+    <div class="lol"><b>Episode</b>: Episode Anime</div>
+    <div class="lol"><b>Rating</b>: Rating Anime</div>
+    <div class="lol"><b>Added On</b>: Tanggal Rilis Anime</div>
+  </div>
+ </div>
+<div class="synopsis">
+   <b>Sinopsis:</b><br>
+   <span class="sinopsiss">
+    <p>Bercerita tentang klub seni di sebuah SMP. Anggota klub itu adalah Uchimaki Subaru, seorang yang mahir menggambar wajah, tapi dia hanya ingin menggambar waifu 2D. Collette, gadis pengacau yang tak pernah berhenti mengganggu. Ketua klub, yang kerjaannya hanya tidur saja. Dan terakhir Usami Mizuki, satu-satunya anggota klub yang benar-benar ingin melakukan kegiatan klub dan selalu berjuang untuk melakukannya.</p>
+   </span>
+ </div>
+
+<script src="http://goio-anime.blogspot.com/feeds/posts/default/-/Kono%20Bijutsubu%20ni%20wa%20Mondai%20ga%20Aru%21?orderby=published&amp;alt=json-in-script&amp;callback=post_latest"></script><ul class="last-post-wrap"><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/09/kono-bijutsubu-ni-wa-mondai-ga-aru.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 12 Subtitle Indonesia [END]</a></div><span class="post-update">23 September 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/09/kono-bijutsubu-ni-wa-mondai-ga-aru_15.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 11 Subtitle Indonesia</a></div><span class="post-update">16 September 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/09/kono-bijutsubu-ni-wa-mondai-ga-aru_8.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 10 Subtitle Indonesia</a></div><span class="post-update">09 September 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/09/kono-bijutsubu-ni-wa-mondai-ga-aru_2.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 9 Subtitle Indonesia</a></div><span class="post-update">02 September 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/08/kono-bijutsubu-ni-wa-mondai-ga-aru.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 8 Subtitle Indonesia</a></div><span class="post-update">26 Agustus 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/08/kono-bijutsubu-ni-wa-mondai-ga-aru_19.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 7 Subtitle Indonesia</a></div><span class="post-update">20 Agustus 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/08/kono-bijutsubu-ni-wa-mondai-ga-aru_11.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 6 Subtitle Indonesia</a></div><span class="post-update">12 Agustus 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/08/kono-bijutsubu-ni-wa-mondai-ga-aru_5.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 5 Subtitle Indonesia</a></div><span class="post-update">06 Agustus 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/07/kono-bijutsubu-ni-wa-mondai-ga-aru.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 4 Subtitle Indonesia</a></div><span class="post-update">29 Juli 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/07/kono-bijutsubu-ni-wa-mondai-ga-aru_21.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 3 Subtitle Indonesia</a></div><span class="post-update">22 Juli 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/07/kono-bijutsubu-ni-wa-mondai-ga-aru_14.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Episode 2 Subtitle Indonesia</a></div><span class="post-update">15 Juli 2016</span></li><li class="last-post-item"><div class="post_item"><a href="http://goio-anime.blogspot.com/2016/07/kono-bijutsubu-ni-wa-mondai-ga-aru_8.html" target="_top">Kono Bijutsubu ni wa Mondai ga Aru! Subtitle Indonesia</a></div><span class="post-update">08 Juli 2016</span></li>
+<noscript>Reload Ulang Bang, biar keliatan [Sorry Masih Ada kelemahannya di Fitur ini :'v]&amp;lt;br/&amp;gt;
+Setidaknya ane udah berusaha buat.</noscript>
+
+</ul></div>
+<div style="clear: both;"></div>
+</div>
