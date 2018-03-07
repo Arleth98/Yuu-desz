@@ -2,13 +2,17 @@
 <head>
 <meta charset='utf-8'>
 <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 <style>
+body {margin: 0;background: #fff;font-family: sans-serif;}
+a {text-decoration: none;color: #333;}
+a:hover {color: #e97991;}
 /* Bau Bangke tikus nih
   ======================================= */
 #contx{overflow:hidden}
 #contx ._rzfeeditem{position:relative;clear:both;overflow:hidden;margin:auto;padding:5px;display:block;border-bottom:1px solid #eaeaea;}
 #contx ._rzfeeditem img{height:115px;width:190px;}
-#contx ._rzfeeditem h3{font-family:'Roboto Condensed',sans-serif;font-size:16px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#contx ._rzfeeditem h3{font-family:'Roboto Condensed',sans-serif;font-size:16px;margin:10px auto;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 #contx ._rzfeeditem p{font-size:12px;text-align:left;color:#555;margin:5px 0}
 #contx #_rzfeed{overflow:hidden;display:block;float:right;text-align:center;background:#2c2c2c;}
 #contx .recent-posts-details{color:#979797;display:block;font-size:12px;padding:3px}
@@ -40,6 +44,9 @@ var feedaddress = getQueryVariable("Url");
 var Label = getQueryVariable("Tag");
 document.write("<scr" + "ipt type=\"text/javascript\" src=\""+feedaddress+"/feeds/posts/default/-/"+Label+"?orderby=published&alt=json-in-script&callback=tutorial_article\"></scr" + "ipt>");
 //]]></script>
+<script type="text/javascript">//<![CDATA[
+// Resize
+$(document).ready(function(){$('#contx ._rzfeeditem img').attr('src',function(i,src){return src.replace('s72-c','w190-h115-c');});});
+//]]></script>
 </body>
-
 </html>
