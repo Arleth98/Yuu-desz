@@ -25,11 +25,9 @@ null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"
 </head>
 
 <body>
-<script type="text/javascript">
+
+<script type="text/javascript">//<![CDATA[
 function tutorial_article(C){document.write('<div id="contx">');for(var P=0;P<_itempost;P++){var D,H=C.feed.entry[P],L=H.title.$t;if(P==C.feed.entry.length){break}for(var G=0;G<H.link.length;G++){if("replies"==H.link[G].rel&&"text/html"==H.link[G].type){var J=H.link[G].title,I=H.link[G].href}if("alternate"==H.link[G].rel){D=H.link[G].href;break}}var B;try{B=H.media$thumbnail.url}catch(M){s=H.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),B=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"http://2.bp.blogspot.com/-C3Mo0iKKiSw/VGdK808U7rI/AAAAAAAAAmI/W7Ae_dsEVAE/s1600/no-thumb.png"}var F=H.published.$t,O=F.substring(0,4),N=F.substring(5,7),z=F.substring(8,10),x=new Array;if(x[1]="January",x[2]="February",x[3]="March",x[4]="April",x[5]="May",x[6]="June",x[7]="July",x[8]="August",x[9]="September",x[10]="October",x[11]="November",x[12]="December",document.write('<div class="_rzfeeditem">'),1==_itemimg&&document.write('<div class="_rz"><a href="'+D+'"><img class="_rzfeeditem-thumb" src="'+B+'"/></a></div>'),document.write('<h3><a href="'+D+'" target ="_top">'+L+"</a></h3><p>"),"content" in H){var E=H.content.$t}else{if("summary" in H){var E=H.summary.$t}else{var E=""}}var K=/<\S[^>]*>/g;if(E=E.replace(K,""),1==_itemsnippet){if(E.length<_itemcharc){document.write(E)}else{E=E.substring(0,_itemcharc);var q=E.lastIndexOf(" ");E=E.substring(0,q),document.write(E+"...")}}var Q="",j=0;document.write('</p><div class="recent-posts-details">'),1==_itemdate&&(Q=Q+x[parseInt(N,10)]+" "+z+", "+O,j=1),1==_itembtn&&(1==j&&(Q+=" | "),Q=Q+'<a href="'+D+'" class="url" target ="_top">Read more</a>',j=1),1==_itemcomment&&(1==j&&(Q+=" <br> "),"1 Comments"==J&&(J="1 Comment"),"0 Comments"==J&&(J="No Comments"),J='<a href="'+I+'" target ="_top">'+J+"</a>",Q+=J,j=1),document.write(Q),document.write("</div>"),document.write("</div>")}document.write("</div>")};
-function getQueryVariable(variable) {var query = window.location.search.substring(1);var vars = query.split("&");for (var i=0;i<vars.length;i++) {var pair = vars[i].split("=");if(pair[0] == variable){return pair[1];}}return(false);}
-var feedaddress = getQueryVariable("Url");
-var Label = getQueryVariable("Tag");
 var _itempost = 3;
 var _itemimg = true;
 var _itembtn = false;
@@ -37,7 +35,11 @@ var _itemcomment = false;
 var _itemdate = true;
 var _itemsnippet = true;
 var _itemcharc = 170;
+function getQueryVariable(variable) {var query = window.location.search.substring(1);var vars = query.split("&");for (var i=0;i<vars.length;i++) {var pair = vars[i].split("=");if(pair[0] == variable){return pair[1];}}return(false);}
+var feedaddress = getQueryVariable("Url");
+var Label = getQueryVariable("Tag");
 document.write("<scr" + "ipt type=\"text/javascript\" src=\""+feedaddress+"/feeds/posts/default/-/"+Label+"?orderby=published&alt=json-in-script&callback=tutorial_article\"></scr" + "ipt>");
-</script>
+//]]></script>
 </body>
+
 </html>
