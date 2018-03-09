@@ -33,7 +33,7 @@ function getQueryVariable(variable) {var query = window.location.search.substrin
 var feedaddress = getQueryVariable("Url");
 var Label = getQueryVariable("Tag");
 document.write("<div id='related-posts'>");
-document.write("<scr" + "ipt type=\"text/javascript\" src=\""+feedaddress+"/feeds/posts/default/-/"+Label+"?orderby=published&alt=json-in-script&callback=related_results_labels\"></scr" + "ipt>");
+document.write("<scr" + "ipt type=\"text/javascript\" src=\""+feedaddress+"feeds/posts/default/-/"+Label+"?orderby=published&alt=json-in-script&callback=related_results_labels\"></scr" + "ipt>");
 document.write("</div>");
 //]]></script>
 
