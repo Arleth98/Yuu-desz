@@ -14,7 +14,15 @@ a){var b=F.exec(a);b&&(b[1]=(b[1]||"").toLowerCase(),b[3]=b[3]&&new RegExp("(?:^
 body {margin: 0;background: #fff;font-family: sans-serif;}
 a {text-decoration: none;color: #333;}
 a:hover {color: #e97991;}
-
+/*  */
+ul#featured-post{margin:auto;padding:0;list-style:none}
+li.featured-item{width:24%;float:left;display:block;list-style:none;overflow:hidden;padding:6px}
+.img-hover{float:left;margin-right:5px}
+.img-hover img{width:50px;height:50px}
+a.title-article{font-size:13px;line-height:normal;overflow:hidden;position:relative;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+@media screen and (max-width: 640px){
+li.featured-item{width:97%;float:none}
+}
 </style>
 </head>
 
@@ -34,7 +42,6 @@ document.write("</ul>");
 
 <script type='text/javascript'>
 showfeatured_post();
-$('ul#featured-post li.featured-item img').each(function(){$(this).attr('src',$(this).attr('src').replace(/\/s[0-9]+(\-c)?\//,'/w127-h170-c/'))});
 </script>
 
 </body>
